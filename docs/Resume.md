@@ -5,7 +5,7 @@
 📍 Baltimore, MD  
 📞 +1 (443) 630-7529  
 ✉️ [akhilk1@umbc.edu](mailto:akhilk1@umbc.edu)  
-🔗 [GitHub](https://github.com/akhil1729) | [LinkedIn](https://www.linkedin.com/in/akhil1729)
+🔗 [GitHub](https://github.com/akhil1729) | [LinkedIn](https://www.linkedin.com/in/akhil1729) | [Coding Profile](https://www.hackerrank.com/kanukulaakhil201)
 
 ---
 

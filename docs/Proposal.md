@@ -1,4 +1,4 @@
-# Geospatial Machine Learning Platform for Wildfire Risk Assessment and Crop Health Monitoring”
+# Geospatial Machine Learning Platform for Wildfire Risk Assessment and Crop Health Monitoring
 
 **Project Title:** Predicting Wildfire Risk, Burned Area, and Crop Health from Satellite Imagery  
 **Prepared for:** UMBC Data Science Master’s Capstone (DATA606) — Advisor: Dr. Chaojie Wang  

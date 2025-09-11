@@ -2,10 +2,10 @@
 
 **Project Title:** Predicting Wildfire Risk, Burned Area, and Crop Health from Satellite Imagery  
 **Prepared for:** UMBC Data Science Master’s Capstone (DATA606) — Advisor: Dr. Chaojie (Jay) Wang  
-**Author:** Sanjay Varatharajan  
-**GitHub Repository:** _to be created_ (e.g., `https://github.com/<username>/UMBC-DATA606-Wildfire-Crop`)  
-**LinkedIn Profile:** _optional_ (e.g., `https://linkedin.com/in/<your-handle>`)  
-**PowerPoint Presentation:** _to be added_ (e.g., UMBC OneDrive/SharePoint link)
+**Author:** Akhil Kanukula, Sanjay Varatharajan 
+**GitHub Repository:** https://github.com/akhil1729/UMBC-DATA606-Capstone  
+**LinkedIn Profile:** https://linkedin.com/in/akhil1729  
+**PowerPoint Presentation:**(/SharePoint link)
 
 ---
 

@@ -66,6 +66,14 @@ The repo will maintain **scripts** to export curated **AOI mosaics and masks** i
 
 We will create 512×512 **image tiles** (10 m Sentinel‑2 grid) and aligned **mask tiles** for two tasks: **wildfire segmentation** and **crop segmentation**.
 
+## DATASET LINKS
+https://firms.modaps.eosdis.nasa.gov/
+https://www.earthdata.nasa.gov/centers/lp-daac
+https://nassgeodata.gmu.edu/CropScape/
+https://bigearth.net/
+https://www.fao.org/faostat/en/#home
+
+
 | Field | Type | Description | Example |
 |---|---|---|---|
 | `tile_id` | string | Unique tile identifier (`y{row}_x{col}`) | `y10240_x2560` |

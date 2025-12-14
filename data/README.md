@@ -1,4 +1,4 @@
-# UMBC-DATA606-Capstone
+# DATA
 
 # The data we used for this project has been extracted from the sources mentioned in the file attached under this link 
 

@@ -10,7 +10,7 @@
 |----------|------|
 | **YouTube Presentation** | [Watch the Video Presentation]() |
 | **PowerPoint Presentation** | [View Final PPT](https://github.com/akhil1729/UMBC-DATA606-Capstone/blob/main/docs/Wildfire%20Prediction%20and%20Crop%20Monitoring.pptx) |
-| **GitHub Repository** | [https://github.com/akhil1729/UMBC-DATA606-Capstone](https://github.com/akhil1729/UMBC-DATA606-Capstone) |
+| **GitHub Repository** | [https://github.com/akhil1729/UMBC-DATA606-Capstone](https://github.com/akhil1729/UMBC-DATA606-Capstone), [https://github.com/Sanjay3207/UMBC-DATA606-Capstone](https://github.com/Sanjay3207/UMBC-DATA606-Capstone) |
 
 ---
 
